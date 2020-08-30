@@ -1,0 +1,13 @@
+User Adam Musterle needs to connect to the external server. The ID for the server is 23-49590. After the server 
+is properly install.
+
+Dear local admin,
+
+Please ensure that the department account has the permission to connect the the server. We are trying to modify all servers 
+including 23-49590. So, if this is a possible request, then also add a ticket for 34-39948.
+
+Thanks,
+Gilbert Q.
+
+
+
