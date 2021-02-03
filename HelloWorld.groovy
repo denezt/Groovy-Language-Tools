@@ -6,6 +6,6 @@ public class HelloWorld
 {
    public static void main(String[] args)
    {
-      out.println("Hello, the time is " + new Date());
+      println("Hello, the time is " + new Date());
    }
 }
